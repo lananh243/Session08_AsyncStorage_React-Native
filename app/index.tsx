@@ -10,7 +10,7 @@ import { ScrollView, StyleSheet, Text } from 'react-native'
 export default function HomePage() {
   return (
     <ScrollView style={styles.container}>
-        <Text style={styles.title}>Bài 1</Text>
+        <Text style={styles.title}>Bài 1, Bài 4</Text>
         <Bai1/>
         <Text style={styles.title}>Bài 2</Text>
         <Bai2/>
